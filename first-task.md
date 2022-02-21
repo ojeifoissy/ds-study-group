@@ -1,4 +1,4 @@
-### Your First Task
+### Your First Task - [Git Pull Request](https://github.com/mccurcio/ds-study-group/blob/main/members-list.md)
 
 **Welcome to your first task to becoming a Data Science study group member.**
 
