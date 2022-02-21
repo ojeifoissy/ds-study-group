@@ -1,4 +1,3 @@
-﻿Page 
 Data Science Study Group
 Feb. 2022
 Meeting 0 Notes
@@ -22,21 +21,7 @@ This study group is to promote and assist each other in the understanding and pr
 12. We want these groups to be democratically organized.
 13. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 Q. What topics and formats interest you?
 * A book club group (Practical Statistics for Data Scientists… Using R and Python 2ed 2020 by Peter Bruce)
@@ -57,6 +42,7 @@ Q. What topics and formats interest you?
 * What is Data Science Basics, 
 * Data science in the cloud
 
+---
 
 There is more to Data Science than just Algorithms: discussing, sharing concepts/learnings related to, but not exclusively, the following topics:
    1. Visualization/EDA
@@ -69,19 +55,9 @@ There is more to Data Science than just Algorithms: discussing, sharing concepts
    8. Product Sense
    9. Leadership/Behavioral skills
 
-
-
-
-
-
-
-
-
-
-
+---
 
 IDEAS
-
 
 Oladetohun Oluwakorede Emmanuel
 I like to drop some additions, having accountabilities partners would help since people are in different time zones, they can do their stuff in different time zones then have a general meeting during the weekend.
