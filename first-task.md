@@ -2,7 +2,7 @@
 
 **Welcome to your first task to becoming a Data Science study group member.**
 
-1. To become a member, add your name and information in CSV format to document `members-list.md`.
+1. To become a member, add your name and information in CSV format to document `members-list.csv`.
 
 2. Add your information by generating a [Git Pull Request](https://git-scm.com/docs/git-request-pull). 
 
